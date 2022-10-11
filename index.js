@@ -2,7 +2,6 @@ const users = require("./users.json");
 const userProfile = require("./userProfile.json");
 
 const express = require("express");
-const res = require("express/lib/response");
 const mongodb = require("mongodb").MongoClient;
 
 const app = express();
@@ -60,6 +59,8 @@ app.post("/create-user", function (req, res) {
 });
 
 // comment
+
+app.get("/user-average", (req, res));
 
 app.get("/get-users", function (req, res) {
   db.collection("user")
