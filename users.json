@@ -1,0 +1,32 @@
+[
+    {
+    "firstName":"shailendra",
+    "lastName": "pandey",
+    "email":"shailendra@gmail.com",
+    "password":"123456"
+    },
+    {
+        "firstName":"manu",
+        "lastName": "srivastava",
+        "email":"manu@gmail.com",
+        "password":"123456"
+    },
+    {
+        "firstName":"rahul",
+        "lastName": "viswakarma",
+        "email":"rahul@gmail.com",
+        "password":"123456"
+    },
+    {
+        "firstName":"sandeep",
+        "lastName": "pandey",
+        "email":"sandeep@gmail.com",
+        "password":"123456"
+    },
+    {
+        "firstName":"amit",
+        "lastName": "pandey",
+        "email":"amit@gmail.com",
+        "password":"123456"
+    }
+]
